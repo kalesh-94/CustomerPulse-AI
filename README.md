@@ -1,4 +1,4 @@
-# CustomerPulse AI 🎯
+# CustomerPulse AI
 
 > An AI-powered customer support analytics platform that transforms raw support tickets into actionable business insights using a hybrid AI approach — combining deterministic rule-based processing with on-demand LLM intelligence.
 
