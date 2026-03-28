@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 import plotly.express as px
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "http://52.66.34.73:8000"
 
 st.set_page_config(page_title="CustomerPulse AI", layout="wide")
 
