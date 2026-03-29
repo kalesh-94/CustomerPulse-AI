@@ -25,7 +25,7 @@ def fetch_insights():
 # ---------------- SIDEBAR UPLOAD ----------------
 st.sidebar.header("Upload Data")
 
-uploaded_file = st.sidebar.file_uploader("Upload CSV", type=["csv"])
+uploaded_file = st.sidebar.file_uploader("Upload CSV", type=["csv", "xlsx"])
 
 if uploaded_file:
     if st.sidebar.button("Process CSV"):
