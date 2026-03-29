@@ -11,3 +11,4 @@ requests
 plotly
 dotenv
 streamlit
+openpyxl
