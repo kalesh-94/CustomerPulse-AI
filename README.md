@@ -8,7 +8,7 @@
 
 | Service | URL |
 |---------|-----|
-| 🔗 Backend API (FastAPI) | http://52.66.34.73:8000/docs |
+| 🔗 Backend API (FastAPI) | http://52.66.34.73:8000/docs (Currently EC2 instance is off due to billing)|
 | 📊 Frontend Dashboard (Streamlit) | https://customerpulse-ai.streamlit.app/ |
 
 ---
